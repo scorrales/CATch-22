@@ -1,0 +1,26 @@
+{
+  "name": "catch22",
+  "version": "1.0.0",
+  "description": "IoT device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scorrales/CATch-22.git"
+  },
+  "keywords": [
+    "iot",
+    "arduino",
+    "adafruit",
+    "esp8266",
+    "javascript"
+  ],
+  "author": "Sergio Corrales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scorrales/CATch-22/issues"
+  },
+  "homepage": "https://github.com/scorrales/CATch-22#readme"
+}
