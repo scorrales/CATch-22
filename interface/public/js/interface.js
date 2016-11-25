@@ -1,15 +1,15 @@
 // Set pin 5 as output on lamp control module
-$.getq('queue', '/lamp_control/mode/5/o');
+$.getq('queue', '/valve_control/mode/5/o');
 
 $(document).ready(function() {
 
   // Function to control lamp
   $("#1").click(function() {
-    $.getq('queue', '/lamp_control/digital/5/1');
+    $.getq('queue', '/valve_control/digital/5/1');
   });
 
   $("#2").click(function() {
-    $.getq('queue', '/lamp_control/digital/5/0');
+    $.getq('queue', '/valve_control/digital/5/0');
   });
 
   // Get data from DHT sensor
