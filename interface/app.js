@@ -20,7 +20,8 @@ app.get('/', function(req, res){
 var rest = require("arest")(app);
 
 // WiFi devices
-rest.addDevice('http','192.168.1.8');
+rest.addDevice('http','192.168.1.8'); //Edit with the ESP8266's IP address
+//rest.addDevice('http','192.168.1.x');  Add as many devices as you need
 
 // Start server
 app.listen(port);
