@@ -1,6 +1,11 @@
 # CATch-22
 
-CATch 22 is a project designed to shoo away obnoxious animals from a designated area. Work in progress.
+CATch 22 is a project designed to shoo away obnoxious animals from a designated area.
+
+Through the prompt of a motion detector sensor, a water sprinkler activates in order to alienate potential foes. This is a very specific function for the system, but in more abstract terms, the project has a wider reach. It can be defined as an event-triggered response system which has internet capabilities for control and alarm handling.
+
+Work in progress.
+
 
 ## Author
 
